@@ -1,0 +1,35 @@
+{
+  "insights": [
+    {
+      "id": "INS_001",
+      "categoria": "trafego|zona",
+      "titulo": "Redução expressiva no tráfego em Z_C2 para adolescentes e jovens adultos",
+      "observacao": "O fluxo de pessoas na zona Z_C2 diminuiu 3% nos últimos meses, especialmente entre os adolescentes (-4%) e jovens adultos (-2%).",
+      "implicacao": "Podem ocorrer baixas no volume de vendas e engajamento da marca.",
+      "recomendacao": "Realizar campanhas promocionais focadas nessas zonas para atrair mais clientes. Considerar ofertas personalizadas, como descontos ou serviços adicionais.",
+      "urgencia": "esta_semana",
+      "confianca": 0.8
+    },
+    {
+      "id": "INS_002",
+      "categoria": "zona|funil",
+      "titulo": "Baixa conversão de visitantes em compradores na Z_N3 para adultos jovens (18-25 anos)",
+      "observacao": "A zona Z_N3 apresenta uma taxa de conversão de 40% menor entre os adultos jovens, com apenas 60% dos visitantes efetivamente realizando compras.",
+      "implicacao": "Perda potencial de vendas significativa para esse público-alvo.",
+      "recomendacao": "Optimizar a experiência de compra na Z_N3. Implementar sugeridas melhorias no layout ou ofertas personalizadas voltadas ao target desejado.",
+      "urgencia": "proximo_mes",
+      "confianca": 0.75
+    },
+    {
+      "id": "INS_003",
+      "categoria": "anomalia|demografico",
+      "titulo": "Anomalias em Z_S6 para a faixa etária de 26-35 anos",
+      "observacao": "Registos anormais em Z_S6, com uma variação de +10% no tráfego comparado à média. No entanto, a taxa de conversão diminuiu -5%.",
+      "implicacao": "Indica potenciais problemas na área ou oportunidades para ajustar o marketing direcionado aos 26-35 anos.",
+      "recomendacao": "Investigar detalhadamente os dados dessa zona. Verificar se há problemas de infraestrutura ou considerar uma campanha de marketing diferenciada nessa faixa etária.",
+      "urgencia": "proximo_mes",
+      "confianca": 0.6
+    }
+  ],
+  "resumo_executivo": "1) Redução do tráfego em Z_C2 para adolescentes e jovens adultos requer ações imediatas, como campanhas promocionais personalizadas. 2) Baixa conversão na Z_N3 para adultos jovens (18-25 anos) sugere a necessidade de otimização da experiência de compra para esse público. 3) Anomalias em Z_S6 para a faixa etária de 26-35 anos indicam problemas ou oportunidades que devem ser investigadas mais profundamente."
+}

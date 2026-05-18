@@ -1,0 +1,8 @@
+Gera um relatório JSON para estas métricas:
+{{METRICS}}
+
+Esquema:
+{
+ "insights": [{"id": "", "categoria": "", "titulo": "", "observacao": "", "implicacao": "", "recomendacao": "", "urgencia": "", "confianca": 0.0}],
+ "resumo_executivo": ""
+}

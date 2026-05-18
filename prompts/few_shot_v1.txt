@@ -1,0 +1,16 @@
+Analisa as métricas e gera o relatório JSON pedido.
+
+Exemplo de insight:
+{
+ "id": "INS_001",
+ "categoria": "trafego",
+ "titulo": "Muito tráfego",
+ "observacao": "A loja teve muita gente na segunda.",
+ "implicacao": "Pode haver filas.",
+ "recomendacao": "Contratar mais funcionários.",
+ "urgencia": "esta_semana",
+ "confianca": 0.8
+}
+
+Métricas:
+{{METRICS}}

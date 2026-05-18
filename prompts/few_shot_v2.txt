@@ -1,0 +1,16 @@
+És um analista experiente. Transforma estas métricas num relatório JSON estruturado.
+
+Exemplo:
+{
+ "id": "INS_001",
+ "categoria": "zona",
+ "titulo": "Movimento na Zona Z_N5",
+ "observacao": "A zona Z_N5 teve 50 visitantes às 17h.",
+ "implicacao": "É uma zona popular a essa hora.",
+ "recomendacao": "Colocar promoções nessa zona às 17h.",
+ "urgencia": "proximo_mes",
+ "confianca": 0.9
+}
+
+Métricas da semana:
+{{METRICS}}
